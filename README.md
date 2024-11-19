@@ -2,7 +2,7 @@
 
 Ce projet et un outil qui Bypass Windows Defender. Il utilise **Python** et **CustomTkinter** pour offrir une interface graphique moderne et esthétique.
 
-**Attention** : Cet outil est puissant et n'effectue aucune modification réelle sur votre système. Il sert uniquement à des fins éducatives et pour la démonstration de la création d'interfaces graphiques en Python.
+**Attention** : Cet outil est puissant et je ne suis pas responsable de vos acte !
 
 ## Fonctionnalités
 
